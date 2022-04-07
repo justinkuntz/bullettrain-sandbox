@@ -1,8 +1,8 @@
 en:
   application:
-    name: Untitled Application
+    name: Bullettrain Sandbox
     owner: Unidentified Developer
     description: "You can update this description in `config/locales/en/application.en.yml`."
-    keywords: untitled application seo keywords
+    keywords: bullettrain sandbox seo keywords
     support_email: change.me@localhost
-    key: untitled_application
+    key: bullettrain_sandbox
